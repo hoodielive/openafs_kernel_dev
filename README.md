@@ -1,2 +1,2 @@
-# openafs_kernel_dev
+# OpenAFS Kernel Development
 Build OpenAFS Kernels to Support RHEL Hosts
